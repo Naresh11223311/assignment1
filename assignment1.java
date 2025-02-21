@@ -1,5 +1,5 @@
-package assignment;
-class assign
+package assign;
+class repository
 {
 	public boolean cigarParty(int cigars,boolean isweekend){
 		
